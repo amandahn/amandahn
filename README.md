@@ -1,4 +1,4 @@
-- Hi, I’m Amanda ^-^
+- Hi, I’m Amanda 
 - This is my README!
 
 
